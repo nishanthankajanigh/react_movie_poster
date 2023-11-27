@@ -1,3 +1,8 @@
+epidi image add panrathu
+epidi data pass panrathu
+intha form la click panratha
+epidi background color change panrathu
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
